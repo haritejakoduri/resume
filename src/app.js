@@ -18,7 +18,7 @@ function App(){
          <Headding headding="EXPERIENCE"/>
          <Details 
             company="Codegnan"
-            role="FullStak Web Developer"
+            role="FullStack Web Developer"
             duration="nov-2019 to may-2020 7months"
             text ="worked as a fullstack developer. in this process i have learned new things. new packages in Node.js"
          />
