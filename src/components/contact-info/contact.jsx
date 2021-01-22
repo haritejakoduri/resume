@@ -6,7 +6,7 @@ function Contact(){
  return(
  <Container>
    <Infodiv>
-      <Container>
+      <Container className="container-detail">
       <img src="https://haritejakoduri.github.io/resume/icons/mail.png" alt="mail"/>
       <a href="mailto:haritejakoduri1234@gmail.com" className="contact-link">haritejakoduri1234@gmail.com</a>
       </Container>

@@ -7,7 +7,7 @@
 font-family: Calibri;
 font-style: normal;
 font-weight: bold;
-font-size: 24px;
+font-size: 1.5em;
 line-height: 18px;
 /* identical to box height, or 129% */
 }
@@ -15,7 +15,7 @@ line-height: 18px;
    font-family: Calibri;
 font-style: normal;
 font-weight: normal;
-font-size: 20px;
+font-size: 1.666vw;
 line-height: 18px;
 /* identical to box height, or 150% */
 color: #343434;
@@ -24,7 +24,7 @@ color: #343434;
    font-family: Calibri;
 font-style: normal;
 font-weight: normal;
-font-size: 18px;
+font-size: 1.5vw;
 line-height: 18px;
 /* identical to box height, or 200% */
 color: #73808D;
@@ -33,7 +33,7 @@ color: #73808D;
    font-family: Calibri;
 font-style: normal;
 font-weight: normal;
-font-size: 16px;
+font-size: 	1.333vw;
 line-height: normal;
 /* or 156% */
 color: rgba(0, 0, 0, 0.8);
