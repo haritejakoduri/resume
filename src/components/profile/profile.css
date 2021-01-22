@@ -1,0 +1,44 @@
+.card{
+   background: none;
+   border: 0px;
+   font-family: Montserrat;
+   font-style: normal;
+   text-align: left;
+   margin-bottom: 15px;
+}
+.card-img{
+   background: url("http://localhost:3000/logo512.png");
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-position: right;
+   height: 100px;
+   width: 100px;
+   float: right;
+   border-radius: 100px;
+   display:block;
+}
+.initial{
+   font-family: Montserrat;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 25px;
+   line-height: 30px;
+   color: #CECACA;
+}
+.name{
+   font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 43px;
+color: #FFFFFF;
+}
+.prof{
+   
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 18px;
+color: #CECACA;
+}

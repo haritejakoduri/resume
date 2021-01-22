@@ -1,0 +1,6 @@
+.main-div{
+   height: max-content;
+   width: 100%;
+   background:linear-gradient(180deg, rgba(3, 56, 244, 0.71) 0%, rgba(224, 37, 206, 0.79) 93.75%);
+   border:0px;
+}

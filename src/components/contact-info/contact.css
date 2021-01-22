@@ -1,0 +1,50 @@
+.contact-link{
+   font-family: Calibri;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+display: inline-block;
+color: #FFFFFF;
+margin-left: 20px;
+position: relative;
+bottom: -2px;
+}
+.contact-link:hover{
+   color: #FFFFFF;
+   text-decoration: none;
+}
+.ul-knowledge{
+   margin-left: 20px;
+   font-size: 17px;
+}
+.ul-knowledge li{
+   margin-bottom: 4px;
+}
+.button-style{
+background: rgba(196, 196, 196, 0.35);
+border-radius: 10px;
+border: 0px;
+margin: 0px;
+}
+.button-style:hover{
+   background: rgba(196, 196, 196, 0.35);
+   outline: none;
+}
+
+.hobbie-block{
+   text-align: center;
+   font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+line-height: 18px;
+/* identical to box height, or 180% */
+color: #E5E5E5;
+}
+.hobbie-block h4{
+   font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 18px;
+}

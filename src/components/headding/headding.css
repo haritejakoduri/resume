@@ -1,0 +1,19 @@
+.head{
+   padding-top: 10px;
+}
+.head-thing{
+   width:max-content;
+   padding-left: 20px;
+   padding-right: 20px;
+   background: #545454;
+border-radius: 5px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+color: #FFFFFF;
+z-index: 999;
+position: relative;
+}

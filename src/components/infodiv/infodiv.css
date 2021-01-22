@@ -1,0 +1,19 @@
+.info-div{
+   width: auto;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 0px;
+   padding-right: 0px;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   background: rgba(196, 196, 196, 0.35);
+   border-radius: 10px;
+   
+font-family: Calibri;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 16px;
+color: #FFFFFF;
+}
