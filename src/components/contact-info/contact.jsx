@@ -59,22 +59,22 @@ function Contact(){
       <Container>
          <Row>
             <Col md={3} sm={3} xs={3} className="hobbie-block">
-               <img src="http://localhost:3000/icons/book.png" alt="reading" className="hobbies-img"/>
+               <img src="https://haritejakoduri.github.io/resume/icons/book.png" alt="reading" className="hobbies-img"/>
                <br/>
                <h4>Reading</h4>
             </Col>
             <Col md={3} sm={3} xs={3} className="hobbie-block">
-            <img src="http://localhost:3000/icons/visual-studio.png" alt="reading" className="hobbies-img"/>
+            <img src="https://haritejakoduri.github.io/resume/icons/visual-studio.png" alt="reading" className="hobbies-img"/>
                <br/>
                <h4>Coding</h4>
             </Col>
             <Col md={3} sm={3} xs={3} className="hobbie-block">
-            <img src="http://localhost:3000/icons/controller.png" alt="reading" className="hobbies-img"/>
+            <img src="https://haritejakoduri.github.io/resume/icons/controller.png" alt="reading" className="hobbies-img"/>
                <br/>
                <h4>Gaming</h4>
             </Col>
             <Col md={3} sm={3} xs={3} className="hobbie-block">
-            <img src="http://localhost:3000/icons/traveling.png" alt="reading" className="hobbies-img"/>
+            <img src="https://haritejakoduri.github.io/resume/icons/traveling.png" alt="reading" className="hobbies-img"/>
                <br/>
                <h4>Traveling</h4>
             </Col>
