@@ -24,7 +24,7 @@ function Skill(){
                <Image className="skill-img" title="NodeJS" src="https://haritejakoduri.github.io/resume/learned/node64.png" rounded />
             </Col>
             <Col sm={3} md={3} lg={3} xs={3}>
-               <Image className="skill-img" title="Express" src="https://haritejakoduri.github.io/resume/learned/expressjs.png" rounded />
+               <Image className="skill-img" title="Express" src="https://haritejakoduri.github.io/resume/learned/Expressjs.png" rounded />
             </Col>
             <Col sm={3} md={3} lg={3} xs={3}>
                <Image className="skill-img" title="Mongodb" src="https://haritejakoduri.github.io/resume/learned/mongodb64.png" rounded />
