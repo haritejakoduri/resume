@@ -14,7 +14,7 @@ function Contact(){
    <Infodiv>
       <Container>
       <img src="https://haritejakoduri.github.io/resume/icons/call.png" alt="mail"/>
-      <a href="callto:+917032699751" className="contact-link">+917032699751</a>
+      <a href="tel:+917032699751" className="contact-link">+917032699751</a>
       </Container>
    </Infodiv>
    <Infodiv>
