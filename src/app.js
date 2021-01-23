@@ -19,27 +19,27 @@ function App(){
          <Details 
             company="Codegnan"
             role="FullStack Web Developer"
-            duration="nov-2019 to may-2020 7months"
-            text ="worked as a fullstack developer. in this process i have learned new things. new packages in Node.js"
+            duration="Nov-2019 to May-2020 7months"
+            text ="Worked as a fullstack developer. during this period of time process i have learned new things and new packages in Node.js."
          />
          <Headding headding="EDUCATION"/>
          <Details 
             course="Bachelor of Engineering in computer science"
             collage="Malineni Perumallu"
             duration="Apr-2016 to May-2020"
-            text ='collage taught me one thing. "Learn your self and Do your self " '
+            text ='College taught me one thing. "Learn your self and Do your self " '
          />
          <Details 
             course="Intermediate"
             collage="Nirmala collage"
             duration="Apr-2014 to Mar-2016"
-            text ='in this time i started teaching computer to 10th class students in a coaching center.'
+            text ='During this time, I started teaching computer to 10th class students in a coaching center.'
          />
          <Details 
             course="SSC"
             collage="ZPHS mandadam"
             duration="Apr-2010 to Mar-2014"
-            text ='in this time i write my first hello world program in c laguage, i also completed my PGDCA course.'
+            text ='During this time, I wrote my first hello world program in c laguage also completed PGDCA course.'
          />
          <Headding headding="MY SKILLS"/>   
          <Skill/>   
