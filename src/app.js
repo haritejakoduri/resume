@@ -24,22 +24,22 @@ function App(){
          />
          <Headding headding="EDUCATION"/>
          <Details 
-            course="Bachelor of Engineering in computer science"
+            course="Bachelor of Engineering in Computer Science"
             collage="Malineni Perumallu"
             duration="Apr-2016 to May-2020"
-            text ='College taught me one thing. "Learn your self and Do your self " '
+            text ='During this period, I have paticipated in many hackathons. i have won first place in three hackathons two in my college and one hackathon in KLU. also Participated in IBC got 10th place amoung the 50 teams around the globe. College taught me one thing. "Learn your self and Do your self " '
          />
          <Details 
             course="Intermediate"
             collage="Nirmala collage"
             duration="Apr-2014 to Mar-2016"
-            text ='During this time, I started teaching computer to 10th class students in a coaching center.'
+            text ='During this period, I shared my computer knowledge to 10th class students in a coaching center.'
          />
          <Details 
             course="SSC"
             collage="ZPHS mandadam"
             duration="Apr-2010 to Mar-2014"
-            text ='During this time, I wrote my first hello world program in c laguage also completed PGDCA course.'
+            text ='During this period, I wrote my first hello world program in c laguage also completed PGDCA course.'
          />
          <Headding headding="MY SKILLS"/>   
          <Skill/>   

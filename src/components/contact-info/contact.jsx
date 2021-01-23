@@ -20,7 +20,7 @@ function Contact(){
    <Infodiv>
       <Container>
       <img src="https://haritejakoduri.github.io/resume/icons/location.png" alt="mail"/>
-      <a href="#location" className="contact-link">vijayawada</a>
+      <a href="#location" className="contact-link">Vijayawada</a>
       </Container>
    </Infodiv>
    <Infodiv>
