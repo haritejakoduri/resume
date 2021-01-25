@@ -48,7 +48,7 @@ function Contact(){
    <Infodiv>
       <Container>
       <h3>Social</h3>
-      <a href="www.linkedin.com/in/hariteja-koduri" className="contact-link">linkedin/haritejakoduri</a>
+      <a href="https://www.linkedin.com/in/hariteja-koduri" className="contact-link">linkedin/haritejakoduri</a>
       <br/>
       <br/>
       <a href="https://www.facebook.com/hari.koduri.73/" className="contact-link">facebook/haritejakoduri</a>
