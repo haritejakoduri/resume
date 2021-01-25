@@ -27,7 +27,7 @@ function App(){
             course="Bachelor of Engineering in Computer Science"
             collage="Malineni Perumallu"
             duration="Apr-2016 to May-2020"
-            text ='During this period, I have paticipated in many hackathons. i have won first place in three hackathons two in my college and one hackathon in KLU. also Participated in IBC got 10th place amoung the 50 teams around the globe. College taught me one thing. "Learn your self and Do your self " '
+            text ='During this period, I have participated in many hackathons. I have won first place in three hackathons two in my college and one hackathon in KLU. also Participated in IBC got 10th place among the 50 teams around the globe. College taught me one thing. "Learn your self and Do your self "'
          />
          <Details 
             course="Intermediate"
