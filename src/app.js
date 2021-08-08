@@ -7,6 +7,7 @@ import Contact from "./components/contact-info/contact"
 import Headding from './components/headding/headding'
 import Details from './components/details/details'
 import Skill from './components/skills/skills'
+import './index.css'
 function App(){
    return(<Container>
       <Layout>
@@ -16,6 +17,12 @@ function App(){
       </Column>
       <Column name="right">
          <Headding headding="EXPERIENCE"/>
+         <Details 
+            company="Auction Software"
+            role="FullStack Web Developer"
+            duration="Mar-2021 to present"
+            text ="Working as a fullstack developer"
+         />
          <Details 
             company="Codegnan"
             role="FullStack Web Developer"
