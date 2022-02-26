@@ -4,7 +4,7 @@ import './skill.css'
 function Skill(){
    return(
       <Container className="skill-container">
-         <Row style={{"text-align":"center"}}>
+         <Row style={{textAlign:"center"}}>
             <Col sm={3} md={3} lg={3} xs={3}>
                <Image className="skill-img" title="html" src="https://haritejakoduri.github.io/resume/learned/htm564.png" rounded />
             </Col>
