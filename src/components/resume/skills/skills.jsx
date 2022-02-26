@@ -32,6 +32,9 @@ function Skill(){
             <Col sm={3} md={3} lg={3} xs={3}>
                <Image className="skill-img" title="VueJS" src="https://haritejakoduri.github.io/resume/learned/vuejs.png" rounded />
             </Col>
+            <Col sm={3} md={3} lg={3} xs={3}>
+               <Image className="skill-img" title="MySQL" src="https://haritejakoduri.github.io/resume/learned/mysql.png" rounded />
+            </Col>
          </Row>
       </Container>
    )
